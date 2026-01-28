@@ -1,0 +1,15 @@
+python-telegram-bot==21.4
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.26.4
+scipy==1.11.4
+mutagen==1.47.0
+pydub==0.25.1
+python-dotenv==1.0.1
+requests==2.32.3
+schedule==1.2.0
+
+# Optional (uncomment when needed):
+# openai==1.14.0
+# demucs==4.0.1
+# aubio==0.4.9
